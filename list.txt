@@ -1,2 +1,4 @@
-Arizona_Code
-Lesha_Live
+{
+  "Mainardo_Gargano": "Did not deserved",
+  "Reloaded_Namikazze": "Aurora_Alferova"
+}
