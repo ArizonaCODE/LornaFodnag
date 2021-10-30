@@ -1,4 +1,4 @@
 {
-  "Mainardo_Gargano": "Did not deserved",
-  "Reloaded_Namikazze": "Aurora_Alferova"
+  "Lesha_Live": "Did not deserved",
+  "Arizona_Code": "Aurora_Alferova"
 }
