@@ -1,5 +1,5 @@
 {
   "Lesha_Live": "Did not deserved",
-  "Arizona_Code": "Aurora_Alferova",
+  "Farmer_Vlad": "Aurora_Alferova",
   "Aurora_Alferova": "Aurora_Alferova"
 }
